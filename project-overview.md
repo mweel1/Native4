@@ -12,3 +12,4 @@ Long tailed technology systems have a high level of corruption, by working in sm
 The boundries of this project includes the local providences in China.
 
 
+

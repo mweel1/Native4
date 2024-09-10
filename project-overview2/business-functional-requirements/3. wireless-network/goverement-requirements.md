@@ -1,0 +1,6 @@
+- Local District Security Agency can receive all communications and run it through the content alert system, where alerts are triggered and assigned to the right governmental agency.
+- Local District Security Agency can filter by
+  - Person's Name
+  - IP Address
+  - Location bounded boxes
+  - governmental issued ID
